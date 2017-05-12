@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:paste:[MainPanel]" features="38"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:redo:[UndoManager]" features="18"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:findBinaryController:[MainPanel]" features="19,21"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:selectedAll:[MainPanel]" features="13"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:findController:[MainPanel]" features="19,49"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:copy:[MainPanel]" features="25"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:findNextController:[MainPanel]" features="39"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:cut:[MainPanel]" features="26"/>
+<key name="//CompilationUnit[controller.EditController]:types/TypeDeclaration:EditController:bodyDeclarations/MethodDeclaration:void:undo:[UndoManager]" features="24"/>
+</annotations>

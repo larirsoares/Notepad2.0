@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:cut:[MainPanel]" features="26"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:selectedAll:[MainPanel]" features="13"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:selectFound:[JTextPane]" features="19,21,39"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:find:[MainPanel]" features="19,49"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:paste:[MainPanel]" features="38"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:undo:[UndoManager]" features="24"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/FieldDeclaration:wordToFind" features="19"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:copy:[MainPanel]" features="25"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/FieldDeclaration:findIndex" features="19"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:findNext:[MainPanel]" features="39"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/FieldDeclaration:clip" features="38,25,26"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:findBinary:[MainPanel]" features="19,21"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:redo:[UndoManager]" features="18"/>
+<key name="//CompilationUnit[model.EditModel]:types/TypeDeclaration:EditModel:bodyDeclarations/MethodDeclaration:void:selectFound:[JTextComponent]" features="19"/>
+</annotations>

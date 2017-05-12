@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[8]:statements/VariableDeclarationStatement" features="16"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[6]:statements/ExpressionStatement" features="40"/>
+<key name="//CompilationUnit[view.MainPanel]:imports/ImportDeclaration:model.TextLineNumber" features="16"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:JLabel:getRegua:[]" features="40"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[14]:statements/ExpressionStatement" features="40"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[9]:statements/ExpressionStatement" features="16"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[15]:statements/ExpressionStatement" features="40"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/MethodDeclaration:void:initComponents:[]:body/Block[3]:statements/ExpressionStatement" features="40"/>
+<key name="//CompilationUnit[view.MainPanel]:types/TypeDeclaration:MainPanel:bodyDeclarations/FieldDeclaration:regua" features="40"/>
+</annotations>

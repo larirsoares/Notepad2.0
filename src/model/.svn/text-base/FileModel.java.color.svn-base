@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:exitTabMulti:[MainPanel;JTabbedPane]" features="35,31"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:fileProperties:[JFrame;MainPanel]" features="36"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:saveNormal:[MainPanel;JTabbedPane]" features="4"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:saveNormal:[MainPanel]" features="4"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:openFileSingle:[JFrame;MainPanel;JTabbedPane]" features="32,8"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:openFileMulti:[JFrame;MainPanel;JTabbedPane]" features="35,8"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:exitTabSingle:[MainPanel;JTabbedPane]" features="32,31"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:printPage:[]" features="20"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:String:saveAs:[MainPanel]" features="1"/>
+<key name="//CompilationUnit[model.FileModel]:types/TypeDeclaration:FileModel:bodyDeclarations/MethodDeclaration:void:newFile:[MainPanel;MainPanel;JTabbedPane]" features="22"/>
+</annotations>

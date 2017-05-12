@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[model.HelpModel]:types/TypeDeclaration:HelpModel" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:imports/ImportDeclaration:javax.swing.WindowConstants" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:package/PackageDeclaration" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:imports/ImportDeclaration:java.awt.Dimension" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:imports/ImportDeclaration:javax.swing.JLabel" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:imports/ImportDeclaration:java.awt.Toolkit" features="6"/>
+<key name="//CompilationUnit[model.HelpModel]:imports/ImportDeclaration:javax.swing.JFrame" features="6"/>
+</annotations>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.AttributeSet" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Color" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.util.HashMap" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:types/TypeDeclaration:TextLineNumber" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.StyleConstants" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.event.DocumentListener" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Graphics" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.event.CaretListener" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.border.Border" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.border.MatteBorder" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.beans.PropertyChangeEvent" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.Utilities" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Rectangle" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.JTextComponent" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.BadLocationException" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Font" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.event.CaretEvent" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.text.Element" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.border.EmptyBorder" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.FontMetrics" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.JPanel" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Insets" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.border.CompoundBorder" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.beans.PropertyChangeListener" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.SwingUtilities" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Point" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:java.awt.Dimension" features="16"/>
+<key name="//CompilationUnit[model.TextLineNumber]:imports/ImportDeclaration:javax.swing.event.DocumentEvent" features="16"/>
+</annotations>

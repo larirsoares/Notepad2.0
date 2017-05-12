@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:openFileMulti:[JFrame;MainPanel;JTabbedPane]" features="35,8"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:printPage:[]" features="20"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:saveAs:[MainPanel;JTabbedPane]" features="1"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:fileProperties:[JFrame;MainPanel]" features="36"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:saveNormal:[MainPanel;JTabbedPane]" features="4"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:newFileMulti:[JTabbedPane]" features="35,22"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:exitMulti:[MainPanel;JTabbedPane]" features="35,31"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:newFileMulti:[JTabbedPane;UndoManager]" features="35,22"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:openFileSingle:[JFrame;MainPanel;JTabbedPane]" features="32,8"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:exitSingle:[MainPanel;JTabbedPane]" features="32,31"/>
+<key name="//CompilationUnit[controller.FileController]:types/TypeDeclaration:FileController:bodyDeclarations/MethodDeclaration:void:newFileSingle:[MainPanel;MainPanel;JTabbedPane;String]" features="32,22"/>
+</annotations>

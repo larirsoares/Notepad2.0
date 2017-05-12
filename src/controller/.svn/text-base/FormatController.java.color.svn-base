@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[controller.FormatController]:types/TypeDeclaration:FormatController:bodyDeclarations/MethodDeclaration:void:highlight:[JTextComponent]" features="34"/>
+<key name="//CompilationUnit[controller.FormatController]:types/TypeDeclaration:FormatController:bodyDeclarations/MethodDeclaration:void:ajustaFonte:[String;int;String;JLabel;MainPanel]" features="3,27,29,30"/>
+<key name="//CompilationUnit[controller.FormatController]:types/TypeDeclaration:FormatController:bodyDeclarations/MethodDeclaration:void:removeHighlight:[JTextComponent]" features="34"/>
+<key name="//CompilationUnit[controller.FormatController]:types/TypeDeclaration:FormatController:bodyDeclarations/MethodDeclaration:void:ocultaReguaController:[MainPanel]" features="40"/>
+</annotations>

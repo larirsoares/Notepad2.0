@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/TypeDeclaration:MyHighlightPainter" features="34"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/MethodDeclaration:void:removeHighlights:[JTextComponent]" features="34"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/FieldDeclaration:myHighlighter" features="34"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/MethodDeclaration:Font:setFont:[String;int;String;MainPanel]" features="3,27,29,30"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/MethodDeclaration:void:ocultaRegua:[JLabel]" features="40"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/MethodDeclaration:void:highLight:[JTextComponent]" features="34"/>
+<key name="//CompilationUnit[model.FormatModel]:types/TypeDeclaration:FormatModel:bodyDeclarations/FieldDeclaration:javaWords" features="34"/>
+</annotations>
